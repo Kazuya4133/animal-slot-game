@@ -66,5 +66,5 @@ python animal_slot_game.py
 ## 🎬 ゲームデモ
 
 <div align="center">
-  <img src="AnimalSlot.gif" alt="動物スロットゲームのデモ" width="600">
+  <img src="assets/AnimalSlot.gif" alt="動物スロットゲームのデモ" width="600">
 </div>
