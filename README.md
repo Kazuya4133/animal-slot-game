@@ -5,7 +5,6 @@
 ![Game Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-brightgreen)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 **6 歳の子ども向けに作られた、シンプルでかわいい動物のスロットゲーム！**
 
@@ -66,5 +65,5 @@ python animal_slot_game.py
 ## 🎬 ゲームデモ
 
 <div align="center">
-  <img src="assets/AnimalSlot.gif" alt="動物スロットゲームのデモ" width="600">
+  <img src="assets/AnimalSlot.gif" alt="動物スロットゲームのデモ" width="500">
 </div>
